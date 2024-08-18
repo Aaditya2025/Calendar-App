@@ -1,9 +1,9 @@
 {
   "name": "calendar-app",
+  "homepage": "https://Aaditya2025.github.io/Calendar-App",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aaditya2025.github.io/Calendar-App",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
