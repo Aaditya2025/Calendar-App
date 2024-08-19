@@ -83,7 +83,7 @@ const CalendarApp = () => {
     updatedEvents.sort((a, b) => new Date(a.date) - new Date(b.date))
 
     setEvents(updatedEvents)
-    setEventTime({ hours: '00', minutes: '00' })
+    setEventTime({ hours: '', minutes: '' })
     setEventText('')
     setShowEventPopup(false)
     setEditingEvent(null)
