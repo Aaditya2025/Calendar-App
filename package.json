@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aaditya2025.github.io/your-repo-name",
+  "homepage": "https://Aaditya2025.github.io/CALENDAR-APP",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
