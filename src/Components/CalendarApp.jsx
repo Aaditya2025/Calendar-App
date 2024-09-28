@@ -24,7 +24,7 @@ const CalendarApp = () => {
   const [selectedDate, setSelectedDate] = useState(currentDate)
   const [showEventPopup, setShowEventPopup] = useState(false)
   const [events, setEvents] = useState([])
-  const [eventTime, setEventTime] = useState({ hours: '00', minutes: '00' })
+  const [eventTime, setEventTime] = useState({ hours: '', minutes: '' })
   const [eventText, setEventText] = useState('')
   const [editingEvent, setEditingEvent] = useState(null)
 
